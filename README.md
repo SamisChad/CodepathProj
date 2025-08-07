@@ -2,6 +2,10 @@ SportsFluct
 
 Table of Contents
 
+
+(My wireframe structure diagram)
+<img width="1536" height="1024" alt="wireframe app" src="https://github.com/user-attachments/assets/1c47ea1c-b8c4-412f-8b77-f27eee961464" />
+
 SportsFluct is a cross-platform application and API suite designed to aggregate, normalize, and visualize up-to-the-minute statistics for every major (and niche) sport worldwide. Whether you’re a fantasy-league manager, data scientist, or casual fan, SportsFluct provides the tools you need to consume, analyze, and share sports data with ease.
 
 1. Objectives & Scope
